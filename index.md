@@ -1,3 +1,3 @@
 # Working notes.
 
-1 [nginx related](nginx.md)
+1 [nginx related](nginx.md){:target="_blank"}
